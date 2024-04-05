@@ -3,7 +3,7 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
-<h3 align="center">A passionate AI learner from Shenzhen China</h3>
+<h3 align="center">A passionate AI learner from Shenzhen, China</h3>
 
 <div>&nbsp;</div>
 
