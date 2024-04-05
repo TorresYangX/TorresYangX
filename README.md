@@ -15,6 +15,6 @@
 - 🔭 I’m currently studying at Southern University of Science and Technology
 - 🌱 I’m currently learning Computer science and technology
 
-![TorresYang's GitHub stats](https://github-readme-stats.vercel.app/api?username=TorresYangX&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christmas&layout=compact)](https://github.com/Christmas/github-readme-stats)
+<!-- GitHub 数据统计 -->
+<img height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TorresYangX&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=tokyonight" />
+<img height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TorresYangX&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=tokyonight"/><br>
