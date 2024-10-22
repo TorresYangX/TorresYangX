@@ -1,4 +1,4 @@
-<h1 align="center">Ciao👋, I'm TorresYang 😉</h1>
+<h1 align="center">Hi👋, I'm Torres Yang 😉</h1>
 <center>
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
@@ -10,6 +10,7 @@
 - 🎓 Undergrad at <a href="https://www.sustech.edu.cn/">Southern University of Science and Technology</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌱 Currently working on Human mobility trajectory generation
 - 🧐 Interested in Deep Learning, NLP, LLMs.
+
 - 📫 How to reach me: 12112729@mail.sustech.edu.cn
 
 <div>&nbsp;</div>
