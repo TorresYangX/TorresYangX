@@ -6,8 +6,11 @@
 <h3 align="center">A passionate AI learner from Shenzhen, China</h3>
 <div>&nbsp;</div>
 - 🎓 Senior undergrad at <a href="https://www.sustech.edu.cn/">Southern University of Science and Technology</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
 - 🌱 Currently interning at University of Illinois Urbana‑Champaign (UIUC)
+
 - 🧐 Interested in Trustworthy Machine Learning, Large Language Models, Multimodal Models.
+
 - 📫 How to reach me: 12112729@mail.sustech.edu.cn
 <div>&nbsp;</div>
 
