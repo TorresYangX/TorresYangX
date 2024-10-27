@@ -4,7 +4,7 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
 <h3 align="center">A passionate AI learner from Shenzhen, China</h3>
-<div>&nbsp;</div>
+
 - 🎓 Senior undergrad at <a href="https://www.sustech.edu.cn/">Southern University of Science and Technology</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🌱 Currently interning at University of Illinois Urbana‑Champaign (UIUC)
