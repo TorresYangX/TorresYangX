@@ -1,9 +1,9 @@
-<h1 align="center">Hi👋, I'm Torres Yang 😉</h1>
+<h1 align="center">Hi👋, I'm Xuan Yang 😉</h1>
 <center>
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
-<h3 align="center">A passionate AI learner from Shenzhen, China</h3>
+<h3 align="center">A passionate AI learner from China</h3>
 
 - 🎓 Senior undergrad at <a href="https://www.sustech.edu.cn/">Southern University of Science and Technology</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
