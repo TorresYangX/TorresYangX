@@ -14,12 +14,6 @@
 - 📫 How to reach me: 12112729@mail.sustech.edu.cn
 <div>&nbsp;</div>
 
-<!-- GitHub 数据统计 -->
-<p align='center'>
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=TorresYangX&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=tokyonight" />
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TorresYangX&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=tokyonight"/><br>
-</p>
-
 <div align='center'>
   
   ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
