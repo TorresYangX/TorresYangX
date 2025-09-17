@@ -3,15 +3,11 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
-<h3 align="center">A passionate AI learner from China</h3>
+- 🎓 First year PhD student at City University of Hong Kong
 
-- 🎓 Senior undergrad at <a href="https://www.sustech.edu.cn/">Southern University of Science and Technology</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🧐 Interested in Trustworthy Machine Learning, LLM reasoning.
 
-- 🌱 Currently interning at University of Illinois Urbana‑Champaign (UIUC)
-
-- 🧐 Interested in Trustworthy Machine Learning, Large Language Models, Multimodal Models.
-
-- 📫 How to reach me: 12112729@mail.sustech.edu.cn
+- 📫 How to reach me: xyang753-c@my.cityu.edu.hk
 <div>&nbsp;</div>
 
 <div align='center'>
