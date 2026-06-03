@@ -5,7 +5,7 @@
 
 - 🎓 First year PhD student at City University of Hong Kong
 
-- 🧐 Interested in Trustworthy Machine Learning, LLM reasoning.
+- 🧐 Interested in LLM reasoning.
 
 - 📫 How to reach me: xyang753-c@my.cityu.edu.hk
 <div>&nbsp;</div>
